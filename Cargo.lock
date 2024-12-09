@@ -79,5 +79,12 @@ dependencies = [
 ]
 
 [[package]]
+name = "q06"
+version = "0.1.0"
+dependencies = [
+ "nom",
+]
+
+[[package]]
 name = "q_"
 version = "0.1.0"
